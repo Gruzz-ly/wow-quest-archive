@@ -1,0 +1,3 @@
+# Mud Hunter
+
+{{Faction disambiguation}}

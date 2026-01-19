@@ -1,0 +1,3 @@
+# Skullripper (quest)
+
+{{Faction disambiguation}}

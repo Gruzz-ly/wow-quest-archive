@@ -1,0 +1,3 @@
+# Spider Scorching
+
+{{Faction disambiguation}}

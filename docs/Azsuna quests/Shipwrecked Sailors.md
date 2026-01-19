@@ -1,0 +1,3 @@
+# Shipwrecked Sailors
+
+{{Faction disambiguation}}

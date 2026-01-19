@@ -1,0 +1,3 @@
+# Brute Strength
+
+{{Faction disambiguation}}

@@ -1,0 +1,3 @@
+# Suspicious Hoofprints
+
+{{Faction disambiguation}}

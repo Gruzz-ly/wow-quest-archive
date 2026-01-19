@@ -1,0 +1,44 @@
+# Dragonrider Racing - Wild Preserve Circuit
+
+{{Questbox
+ | id = 70418
+ | name = Dragonrider Racing - Wild Preserve Circuit
+| disambigcat = Waking Shores
+| displaycat = The Waking Shores
+| category = Waking Shores
+ | level = {{Level|Df-max}}
+ | levelreq = {{Level|Df-max}}
+ | type = Dragonrider Racing
+ | start = Automatic
+ | reputation = +50 [[Valdrakken Accord]]
+ | experience = 9,050
+ | shareable = No
+}}
+
+==Objectives==
+*Complete the race
+
+==Description==
+:{{Text|say|[[Lord Andestrasz]]|It is an excellent day for a race! Come fly with us.}}
+
+==Rewards==
+You will receive:
+* 9,050 [[XP]]
+*[[Dragon Racer's Purse]]
+* +50 [[reputation]] with [[Valdrakken Accord]]
+
+==Completion==
+:{{Text|say|Lord Andestrasz|Nicely done! You and your drake are exceptional.}}
+
+==Notes==
+Location: [[Wild Preserve]], [[Waking Shores]]
+
+==Patch changes==
+*{{Patch 10.0.2|note=Added.}}
+
+==External links==
+{{Elinks-quest|70418}}
+
+[[Category:Skyriding quests]]
+[[Category:Valdrakken Accord quests]]
+[[Category:Dragonflight world quests]]

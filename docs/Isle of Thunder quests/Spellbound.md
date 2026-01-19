@@ -1,0 +1,3 @@
+# Spellbound
+
+{{faction disambiguation}}

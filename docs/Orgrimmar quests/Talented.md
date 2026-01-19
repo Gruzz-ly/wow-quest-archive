@@ -1,0 +1,3 @@
+# Talented
+
+{{Faction disambiguation}}

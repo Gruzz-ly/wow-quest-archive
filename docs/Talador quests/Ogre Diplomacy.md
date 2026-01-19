@@ -1,0 +1,3 @@
+# Ogre Diplomacy
+
+{{faction disambiguation}}

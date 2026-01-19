@@ -1,0 +1,3 @@
+# Soulgrinder Survivor
+
+{{faction disambiguation}}

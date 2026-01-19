@@ -1,0 +1,3 @@
+# Shadowmoon Invasion!
+
+{{faction disambiguation}}

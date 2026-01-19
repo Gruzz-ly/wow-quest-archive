@@ -1,0 +1,3 @@
+# Shredder Manual
+
+{{faction disambiguation}}

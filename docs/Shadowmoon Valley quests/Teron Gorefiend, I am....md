@@ -1,0 +1,3 @@
+# Teron Gorefiend, I am...
+
+{{Faction disambiguation}}

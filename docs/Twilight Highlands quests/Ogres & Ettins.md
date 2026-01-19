@@ -1,0 +1,3 @@
+# Ogres & Ettins
+
+{{faction disambiguation}}

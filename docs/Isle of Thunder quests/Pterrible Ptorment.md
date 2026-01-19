@@ -1,0 +1,3 @@
+# Pterrible Ptorment
+
+{{faction disambiguation}}

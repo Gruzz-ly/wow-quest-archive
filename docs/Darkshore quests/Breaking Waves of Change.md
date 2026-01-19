@@ -1,0 +1,46 @@
+# Breaking Waves of Change
+
+{{For|the [[worgen]] quest|Breaking Waves of Change (worgen)}}
+{{questbox
+| name = Breaking Waves of Change
+| faction = Alliance
+| levelreq = 5
+| level = {{Level|Darkshore}}
+| category = Darkshore
+| start = {{NPC||Sentinel Cordressa Briarbow}} {{co|43.9|76.2|Darnassus}}
+| end = {{NPC||Dentaria Silverglade}} {{co|51.8|18.0|Darkshore}}
+| experience = 210
+| rewards = {{cost|||85}}
+| reputation = +25 [[Darnassus (faction)|Darnassus]]
+| previous = [[Home of the Kaldorei]]
+| next = [[The Last Wave of Survivors]]
+| id = 26383
+}}
+
+==Objectives==
+Use the teleportation tree in western Darnassus to reach [[Rut'theran Village]], then speak to {{NPC||Vesprystus}} to secure a ride to [[Lor'danel]].
+
+==Description==
+You! You look able. And perhaps willing to help?
+
+[[Auberdine]] has finally fallen. Though many of its inhabitants departed long ago when the city first suffered the brunt of the [[Cataclysm (event)|Cataclysm]], many of the more stubborn residents are yet unaccounted for. And it now appears that the city may have been overrun by water elementals.
+
+My sisters need help rescuing the survivors. Please, <class>, use the western tree to reach Rut'theran, then speak to Vesprystus to secure a flight to Lor'danel. Be swift!
+
+==Rewards==
+You will receive: {{cost|||85}}
+
+==Completion==
+Did the [[sentinels]] send you? Thank [[Elune]]. We need everyone we can get.
+
+==Notes==
+Go through the teleportation tree on the west side of the city, then turn around to find {{NPC||Vesprystus}}, the flight master, at {{co|55.4|88.4|Teldrassil}} just to the east of the other teleportation tree in Rut'theran. He automatically offers the flight path to Lor'danel, which is free, so take it. A few yards from where the hippogryph sets down is Dentaria, also on the landing platform.
+
+==Progression==
+{{Breaking Waves of Change}}
+
+==Patch changes==
+* {{Patch 4.0.3a|note=Added.}}
+
+==External links==
+{{elinks-quest|26383}}

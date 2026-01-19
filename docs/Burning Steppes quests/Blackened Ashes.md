@@ -1,0 +1,3 @@
+# Blackened Ashes
+
+{{Faction disambiguation}}

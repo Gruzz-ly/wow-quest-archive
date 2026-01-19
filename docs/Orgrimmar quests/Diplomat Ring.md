@@ -1,0 +1,3 @@
+# Diplomat Ring
+
+{{faction disambiguation}}

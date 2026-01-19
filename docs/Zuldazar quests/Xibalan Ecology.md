@@ -1,0 +1,3 @@
+# Xibalan Ecology
+
+{{Faction disambiguation}}

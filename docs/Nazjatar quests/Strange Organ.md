@@ -1,0 +1,3 @@
+# Strange Organ
+
+{{Faction disambiguation}}

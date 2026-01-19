@@ -1,0 +1,3 @@
+# Growing Wood
+
+{{faction disambiguation}}

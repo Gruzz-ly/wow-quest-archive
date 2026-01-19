@@ -1,0 +1,3 @@
+# Blood Ritual
+
+{{Faction disambiguation}}

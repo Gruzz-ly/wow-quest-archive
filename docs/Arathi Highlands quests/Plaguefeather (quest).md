@@ -1,0 +1,3 @@
+# Plaguefeather (quest)
+
+{{Faction disambiguation}}

@@ -1,0 +1,47 @@
+# Snailspiration: Mudshell Conch
+
+{{Questbox
+ | id = 74959
+ | name = Snailspiration: Mudshell Conch
+ | category = Zaralek Cavern
+ | level = {{Level|Zaralek Cavern}}
+ | levelreq = {{Level|Zaralek Cavern}}
+ | start = [[Briggul]]
+ | reputation = +100 [[Glimmerogg Racer]]
+ | previous = 
+}}
+
+'''Snailspiration: Mudshell Conch''' becomes available after summoning a [[Mudshell Conch]].
+
+==Objectives==
+Summon a max-level Mudshell Conch battle pet and show it to Briggul.
+*Max level Mudshell Conch shown to [[Briggul]]
+
+==Description==
+I smell a [[snail]] on you, but it's strange. You holding out on me?
+
+Not many people know this, but snails are incredibly susceptible to peer pressure. Show off that wonder-snail you got there, and let's get [[Big Slick in the City|Slick]] inspired.
+
+==Rewards==
+You will receive:
+* +100 [[reputation]] with [[Glimmerogg Racer]]
+
+==Progress==
+Show me that snail! Let's inspire Slick to be his best slimy self.
+
+==Completion==
+Some people see a mudshell conch and think, what's so special? But me, I appreciate the simple things. There's beauty in that.
+
+I'm sure Slick agrees!
+
+==Notes==
+Speak with Briggul:
+:{{Gossip|<Show Briggul your level 25 Mudshell Conch.>}}
+
+==Patch changes==
+*{{Patch 10.1.0|note=Added.}}
+
+==External links==
+{{Elinks-quest|74959}}
+
+[[Category:Glimmerogg Racer quests]]

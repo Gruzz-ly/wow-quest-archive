@@ -1,0 +1,3 @@
+# Laying Claim
+
+{{Faction disambiguation}}

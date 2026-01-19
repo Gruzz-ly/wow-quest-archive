@@ -1,0 +1,3 @@
+# Unearthed Magic
+
+{{faction disambiguation}}

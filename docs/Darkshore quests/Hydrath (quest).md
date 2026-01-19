@@ -1,0 +1,3 @@
+# Hydrath (quest)
+
+{{Faction disambiguation}}

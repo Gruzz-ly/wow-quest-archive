@@ -1,0 +1,3 @@
+# Precious Goods
+
+{{faction disambiguation}}

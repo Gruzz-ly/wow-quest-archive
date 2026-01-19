@@ -1,0 +1,56 @@
+# Nemesis: Terror of the Tushui (quest)
+
+{{Questbox
+|id=36934
+|name=Nemesis: Terror of the Tushui
+|faction=Horde
+|category=Frostfire Ridge
+|type=PvP
+|level={{level|wod}}
+|start=[[Raza'kul]]
+|rewards=[[Garrison Resources]] x250
+|money={{cost|61|60|}}
+|shareable=No
+}}
+
+==Objectives==
+Kill 500 Pandaren Players in Player versus Player combat across Draenor.
+* Pandaren Players slain (500)
+* [[Echoing Betrayal]] (provided)
+
+==Description==
+<Raza'kul hands you the bloody heart.>
+
+The ritual is complete. Your nemesis is marked for death.
+
+Now your work to rid this world of the enemy truly begins. Kill all [[Tushui Pandaren|pandaren]] that stand defiantly against the [[Horde]]. Let their deaths serve as a warning to the rest of the [[Alliance]]: they will leave {{Au|Draenor}} or they will die.
+
+Return when you have quenched your rage with the blood of man.
+
+Conquer our enemy and be known as [[Terror of the Tushui|terror of the Tushui]]. Fail and be nothing.
+
+==Rewards==
+You will receive: {{cost|gr=250}}
+
+You will also receive: {{cost|61|60|}}
+
+==Completion==
+The truth of your deeds is in your eyes. Your hunger for the enemy sated with cries for mercy and rivers of blood.
+
+Take now your place as terror of the Tushui.
+
+==Notes==
+*Requires a Level 2 [[Gladiator's Sanctum]] building to access.
+*Kills done in [[Battleground]]s and the [[Arena]] do not count towards this quest.
+*The quest can be completed while in a raid.
+
+==Criteria of==
+*[[Nemesis: Terror of the Tushui]]
+
+==Patch changes==
+*{{Patch 6.0.2|note=Added.}}
+
+==External links==
+{{Elinks-quest|36934}}
+
+[[Category:Garrison quests]]

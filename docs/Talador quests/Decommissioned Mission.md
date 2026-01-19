@@ -1,0 +1,3 @@
+# Decommissioned Mission
+
+{{faction disambiguation}}

@@ -1,0 +1,3 @@
+# The Infested
+
+{{faction disambiguation}}

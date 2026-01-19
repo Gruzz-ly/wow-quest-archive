@@ -1,0 +1,3 @@
+# Compy Stomp
+
+{{faction disambiguation}}

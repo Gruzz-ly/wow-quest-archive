@@ -1,0 +1,47 @@
+# The Theramore Docks
+
+{{questbox
+|name=The Theramore Docks
+|category=Dustwallow Marsh
+| level={{level|Dustwallow Marsh}}
+|faction=Horde
+|start=[[Nazeer Bloodpike]]
+|experience=3300 
+|reputation=+250 [[Orgrimmar (faction)|Orgrimmar]]
+|previous=[[Theramore Spies]]
+|id=1202
+}}
+
+Marg Nighteye, Uleg and Thargil, three of [[Brackenwall Village]] spies, were recently dispatched to [[Theramore Isle]] docks. They were charged with the task of gaining entrance to a ship named The Bleeding Sparrow, with the objective of recovering documents that indicated the political relationship between Theramore Isle and the rest of the Alliance. Unfortunately, they were discovered before they could escape with their prized possession, and, although one of the spies survived, he was forced to throw the documents into a footlocker which is believed to be somewhere underneath the docks of Theramore Isle. Uleg succeeded in returning to Nazeer Bloodpike, while Thargil is currently believed to be held in captivity, assuming that he has not already been executed.
+
+Marg Nighteye remained behind to document the progress of his comrades. Uleg returned to him and was instructed to return to Nazeer Bloodpike, while Marg chose to remain where he was to monitor Alliance activity. Unfortunately, the dangers of Dustwallow Marsh were too great for him to face, and he eventually met his end in the wildreness.
+
+A Horde [[adventurer]] succeeded in reaching the docks unseen and recovering the documents in question. Unfortunately, as the documents were written in Common and as the spymaster chose not to reveal their contents, the precise information regarding the standing between Theramore Isle and the rest of the Alliance is likely to remain a mystery forever.
+
+==Objectives==
+Bring the Captain's Documents to [[Nazeer Bloodpike]] in [[Brackenwall Village]].
+*[[Captain's Documents]]
+
+==Description==
+<Name>, two of our spies were sent to steal documents from a ship at the [[Theramore]] docks. They gained the papers but were discovered, and were forced to throw the documents into the sea.
+
+One spy later escaped, but was unable to recover the prize. He reported his failure to me, and I now charge the task to you.
+
+The documents are in a [[Captain's Footlocker (Dustwallow Marsh)|footlocker]], in the waters somewhere beneath the Theramore docks. Find those documents, <name>, and bring them to me.
+
+==Rewards==
+*3300 [[XP]]
+*250 reputation with [[Orgrimmar (faction)|Orgrimmar]]
+
+==Progress==
+Did you find the documents, <name>?  They hold information vital to the stability of the [[Alliance]] and, hence, vital to the security of the [[Horde]].
+
+==Completion==
+I commend you, <name>.  This was not an easy mission.  But the documents you gained are valued greatly by our superiors.
+
+==Progression==
+#[[Theramore Spies]]
+#[[The Theramore Docks]]
+
+==External links==
+{{Elinks-quest|1202}}

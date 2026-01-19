@@ -1,0 +1,83 @@
+# Thalorien Dawnseeker (Alliance)
+
+{{Questbox
+| name = Thalorien Dawnseeker
+| faction = Alliance
+| level = {{level|Icecrown}}
+| category = Isle of Quel'Danas
+| start = [[Halduron Brightwing]]
+| experience = {{cost|13|23}} at 80
+| rewards = {{cost|7|40}}
+| reputation = 
+| previous = [[Journey To The Sunwell (Alliance)]]
+| next = [[The Purification of Quel'Delar (Alliance)]]
+| id = 24535
+| other-faction = Thalorien Dawnseeker (Horde)
+}}
+
+This quest is part of the {{questchain|The Return of Quel'Delar|Return of Quel'Delar}} quest chain.
+
+==Objectives==
+Visit [[Thalorien Dawnseeker's Remains]] and obtain his blessing to wield [[Quel'Delar]], then return to [[Halduron Brightwing]] near the entrance to the [[Sunwell]].
+* Thalorien's Blessing obtained
+* [[Tempered Quel'Delar]] (provided)
+
+==Description==
+If you truly bear Quel'Delar, <name>, I might be able to admit you to the [[Sunwell]]. If you know the blade's history, you recall that it was borne by [[Thalorien Dawnseeker]] in defense of the Sunwell against the [[Scourge]]. He fell in what is now the [[Dead Scar]], buying time for his men to make their own preparations. You will find his remains near the southern end of the Dead Scar on this isle. Visit them, and if his spirit gives you its blessing, I will allow you to enter the Sunwell.
+
+==Rewards==
+You will receive: {{cost|7|40}}
+
+==Progress==
+Did you visit the ground where Thalorien fell defending the Sunwell?
+
+==Completion==
+I confess that I did not expect Thalorien's spirit to recognize you as the heir to Quel'Delar, but I defer to his judgment. You may enter the Sunwell, but I remind you that you are a guest in our most sacred of precincts, and you should act accordingly.
+
+==Notes==
+Since the [[Isle of Quel'Danas]] is phased, take this opportunity to run around the isle without being accosted by demons or wretched. The naga/murlocs are still in-phase, though.
+
+The Dead Scar is at the southern tip of the island. Run north into the scar to find [[Thalorien Dawnseeker's Remains]]. Clicking on his body will start an event in which you must defend him from the attacking scourge. Thalorien is low-health, and Whirlwinds every chance he gets, but he can be healed if necessary. If he dies, the event will fail. 
+
+:These appear to be the remains of Thalorien Dawnseeker, the last wielder of Quel'Delar.
+
+:{{gossip|Examine the remains.}}
+
+:''A host of ten sunwell defenders and the ghost of Thalorien Dawnseeker appear to relive his last moments.''
+:{{text|say|'''Thalorien Dawnseeker says:''' We must defend the Sunwell from the enemy at all costs.}}
+:{{text|say|'''Thalorien Dawnseeker says:''' I am ordering you to withdraw to the Sunwell proper to help prepare the defenses.}}
+:{{text|say|'''Thalorien Dawnseeker says:''' I will make my stand here and buy you as much time as I am able. Use it well and make our prince proud.}}
+:{{text|say|'''Thalorien Dawnseeker says:''' It has been a great honor to fight beside you in defense of our land and our people.}}
+:''The host departs and Thalorien notices the player.''
+:{{text|say|'''Thalorien Dawnseeker says:''' You, stranger... you are not one of my soldiers. Will you stay and stand with me to face the enemy?}}
+:''Morlen Coldgrip appears''
+:{{text|yell|'''Thalorien Dawnseeker yells:''' Listen well, Scourge defilers. None of you will reach the Sunwell so long as I stand!}}
+:{{text|yell|'''Morlen Coldgrip yells:''' You will fall as your lands and your city have before you. My lord will win a great victory here, and none will remember your name!}}
+:{{text|yell|'''Morlen Coldgrip yells:''' Forward!}}
+:''5 Scourge Zombies attack''
+:{{text|yell|'''Morlen Coldgrip yells:''' Ghouls, slay this pathetic high elf!}}
+:''5 Ghoul Invaders attack''
+:{{text|yell|'''Morlen Coldgrip yells:''' You will fall before the might of the Scourge. Crypt raiders, attack!}}
+:''3 Crypt Raiders attack''
+:{{text|yell|'''Morlen Coldgrip yells:''' I shall kill you myself!}}
+:''Morlen Coldgrip joins the fight''
+
+On victory:
+:{{text|say|'''Thalorien Dawnseeker says:''' I... I wasn't meant to survive this attack.}}
+:{{text|say|'''Thalorien Dawnseeker says:''' Why has this happened? Why have you come here?}}
+:{{text|say|'''Thalorien Dawnseeker says:''' It's Quel'Delar! You possess the sword!}}
+:{{text|say|'''Thalorien Dawnseeker says:''' I don't know how, but the blade has chosen you to be its new wielder. Take it with my blessing, and wield it against the Scourge as I once did.}}
+:''Thalorien's ghost fades.''
+
+If you are grouped with someone who is not on the quest, it may happen that you receive his blessing but that it didn't count for quest completion.  If so, just drop party and redo the event.
+
+Run back to the entrance of the Sunwell to turn in.
+
+==Progression==
+{{:The Return of Quel'Delar quest chain}}
+
+==Patch changes==
+*{{patch 3.3.0|note=Added.}}
+
+==External links==
+{{Elinks-quest|24535}}

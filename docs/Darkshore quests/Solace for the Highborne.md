@@ -1,0 +1,36 @@
+# Solace for the Highborne
+
+{{questbox
+|name=Solace for the Highborne
+|faction=Alliance
+|start={{NPC||Arya Autumnlight}}
+|level={{level|Darkshore}}
+|id=13561
+|experience=880
+|money={{coppercost|400}} (+{{coppercost|540}} at max level)
+|shareable=Yes
+|reputation = +250 [[Darnassus (faction)|Darnassus]]
+|category=Darkshore
+}}
+==Objectives==
+Kill 6 [[Cursed Highborne]] and 6 [[Writhing Highborne]].
+
+==Description==
+I have come to [[Bashal'Aran]] to grant peace to the troubled spirits of the [[Highborne]], but I find my hand hesitates with each blow. If you would like to aid me, you would have my gratitude.
+
+==Rewards==
+You will receive: {{coppercost|400}} (+{{coppercost|540}} at max level)
+
+==Progress==
+Is it done?
+
+==Completion==
+You have my thanks. Though they may not be able to show it, you have the thanks of the Highborne spirits as well.
+
+Fare safely, traveler.
+
+==Patch changes==
+*{{Patch 4.0.3a|note=Added.}}
+
+==External links==
+{{Elinks-quest|13561}}

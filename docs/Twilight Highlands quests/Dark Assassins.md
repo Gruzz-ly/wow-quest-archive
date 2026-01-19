@@ -1,0 +1,3 @@
+# Dark Assassins
+
+{{faction disambiguation}}

@@ -1,0 +1,3 @@
+# Easy Pickings
+
+{{faction disambiguation}}

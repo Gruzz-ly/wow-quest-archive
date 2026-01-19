@@ -1,0 +1,3 @@
+# Granokk (quest)
+
+{{Faction disambiguation}}

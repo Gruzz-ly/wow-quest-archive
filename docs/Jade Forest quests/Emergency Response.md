@@ -1,0 +1,3 @@
+# Emergency Response
+
+{{faction disambiguation}}

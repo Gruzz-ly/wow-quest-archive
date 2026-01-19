@@ -1,0 +1,3 @@
+# Favored Skull
+
+{{Faction disambiguation}}

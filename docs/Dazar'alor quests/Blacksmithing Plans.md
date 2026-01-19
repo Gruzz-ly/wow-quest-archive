@@ -1,0 +1,3 @@
+# Blacksmithing Plans
+
+{{faction disambiguation}}

@@ -1,0 +1,3 @@
+# Starvation Diet
+
+{{Faction disambiguation}}

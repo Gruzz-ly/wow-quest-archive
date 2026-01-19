@@ -1,0 +1,3 @@
+# New Owner
+
+{{faction disambiguation}}

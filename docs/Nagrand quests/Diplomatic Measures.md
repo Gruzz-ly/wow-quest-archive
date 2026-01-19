@@ -1,0 +1,3 @@
+# Diplomatic Measures
+
+{{Faction disambiguation}}

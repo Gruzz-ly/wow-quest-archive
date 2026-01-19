@@ -1,0 +1,3 @@
+# Thunder Calls
+
+{{faction disambiguation}}

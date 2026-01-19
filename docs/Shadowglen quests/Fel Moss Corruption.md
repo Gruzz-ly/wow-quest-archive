@@ -1,0 +1,57 @@
+# Fel Moss Corruption
+
+{{questbox
+| name = Fel Moss Corruption
+| faction = Alliance
+| level = {{Level|Shadowglen}}
+| category = Shadowglen
+| start = [[Ilthalaine]]{{co|45.6|74.6|Shadowglen}}
+| rewards = [[Money]], [[XP]];<br/>[[Canopy Leggings]],<br/>[[Tracking Boots]],<br/>[[Viny Gloves]], or<br/>[[Moss-Encrusted Chain Pants]];<br/>and 3x [[Healing Herb]]
+| reputation = +250 [[Darnassus (faction)|Darnassus]]
+| previous = [[The Balance of Nature]]
+| next = [[A Favor for Melithar]] or<br/>[[Priestess of the Moon (quest)]]
+}}
+
+==Objectives==
+Collect 6 Fel Moss from the [[grell]]kin to the west of [[Ilthalaine]].
+* [[Fel Moss]] (6)
+
+==Description==
+You seem to know what you're doing. Perhaps I can task you with something a little more important.
+
+As you may well know, the corruption in [[Teldrassil]] was supposedly wiped away. Yet something lingers. The creatures have not calmed and all manner of problems still plague us.
+
+I need you to deal with the grellkin that have gathered to the west, and while you're there, I want you to search them for fel moss. This will help me determine from where this continuing corruption stems.
+
+==Rewards==
+{{itembox|You will receive one of these rewards:
+|Canopy Leggings
+|Tracking Boots
+|Viny Gloves
+|Moss-Encrusted Chain Pants}}
+
+You will also receive:
+*[[Money]]
+*[[XP]]
+*+250 [[reputation]] with [[Darnassus (faction)|Darnassus]]
+*3x [[Healing Herb]]
+
+==Progress==
+Satisfy my suspicions, <name>. Bring to me fel moss from the grellkin.
+
+==Completion==
+Your service to the creatures of Shadowglen is worthy of reward, <name>.
+
+You confirmed my fears, however. The grellkin are still tainted by fel moss, despite Teldrassil's blessing. Something sinister remains within the tree. I can only hope that the Gnarlpine tribe of furbolgs are free of the corruption, or we are still in grave danger.
+
+I will look into this further and contact those who might be of aid. Thank you, <class>.
+
+==Progression==
+{{:Night elf starting experience}}
+
+==Patch changes==
+*{{Patch 7.0.3|note=[[Moss-Encrusted Chain Pants]] added as a reward.}}
+*{{Patch 4.0.3a|note=Added.}}
+
+==External links==
+{{Elinks-quest|28714}}

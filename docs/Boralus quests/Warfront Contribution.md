@@ -1,0 +1,3 @@
+# Warfront Contribution
+
+{{Faction disambiguation}}

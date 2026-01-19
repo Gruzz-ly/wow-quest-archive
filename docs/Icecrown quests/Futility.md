@@ -1,0 +1,3 @@
+# Futility
+
+{{Faction disambiguation}}

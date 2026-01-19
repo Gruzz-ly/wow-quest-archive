@@ -1,0 +1,3 @@
+# Mystery Notebook
+
+{{Faction disambiguation}}

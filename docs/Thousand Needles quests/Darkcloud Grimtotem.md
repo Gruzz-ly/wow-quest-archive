@@ -1,0 +1,3 @@
+# Darkcloud Grimtotem
+
+{{faction disambiguation}}

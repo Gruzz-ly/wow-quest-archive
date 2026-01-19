@@ -1,0 +1,3 @@
+# Safety Measures
+
+{{faction disambiguation}}

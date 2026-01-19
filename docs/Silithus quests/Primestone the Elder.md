@@ -1,0 +1,40 @@
+# Primestone the Elder
+
+{{Questbox
+| name = Primestone the Elder
+| level = {{Level|full}}
+| category = Lunar Festival
+| start = [[Elder Primestone]]
+| rewards = [[Coin of Ancestry]]
+| reputation = {{FactionIcon|Alliance|Small}} Alliance:
+*[[Darnassus (faction)|Darnassus]] +75
+*[[Exodar (faction)|Exodar]] +75
+*[[Gnomeregan (faction)|Gnomeregan]] +75
+*[[Ironforge (faction)|Ironforge]] +75
+*[[Stormwind (faction)|Stormwind]] +75
+{{FactionIcon|Horde|Small}} Horde:
+*[[Darkspear Trolls]] +75
+*[[Orgrimmar (faction)|Orgrimmar]] +75
+*[[Silvermoon City (faction)|Silvermoon City]] +75
+*[[Thunder Bluff (faction)|Thunder Bluff]] +75
+*[[Undercity (faction)|Undercity]] +75
+| id = 8654
+}}
+
+==Completion==
+It is good to know the people of this land still pay homage to the olden races.  I bid you well, <name>, and offer you this token...
+
+==Rewards==
+You will receive:
+*[[Coin of Ancestry]]
+
+==Notes==
+Elder Primestone, a Dwarf male, is located in [[The Crystal Vale]] in northwestern [[Silithus]], at {{co|30.8|13.3|Silithus}}. This Elder, like all of the others, is illuminated by a shaft of light from the sky. This Elder does not give the location of other Elders.
+
+==Patch changes==
+*{{Patch 1.9.0|note=Added.}}
+
+==External links==
+{{Elinks-quest|8654}}
+
+[[Category:Silithus quests]]

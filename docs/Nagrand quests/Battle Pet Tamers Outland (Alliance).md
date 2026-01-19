@@ -1,0 +1,50 @@
+# Battle Pet Tamers: Outland (Alliance)
+
+{{Questbox
+ | id = 31919
+ | name = Battle Pet Tamers: Outland
+ | faction = Alliance
+ | category = Battle Pets
+ | type = Account
+ | level = {{Level|full}}
+ | levelreq = 1
+ | start = [[Audrey Burnhep]]
+ | rewards = [[Sack of Pet Supplies]]
+ | money = {{cost|11|40|}}
+ | previous = [[The Returning Champion (Alliance)]]
+ | next = [[Grand Master Antari]]
+ | other-faction = Battle Pet Tamers: Outland (Horde)
+|account=
+}}
+
+==Objectives==
+Defeat Nicki Tinytech, Ras'an, Narrok, and Morulu the Elder in pet battles.
+*Defeat [[Nicki Tinytech]]
+*Defeat [[Ras'an]]
+*Defeat [[Narrok]]
+*Defeat [[Morulu the Elder]]
+
+==Description==
+You've bested the master tamers of [[Kalimdor]] and the [[Eastern Kingdoms]], but your next challenge will be far more trying.
+
+There are four tamers in [[Outland]] that you must now defeat: Nicki Tinytech in [[Hellfire Peninsula]], Ras'an in [[Zangarmarsh]], Narrok in [[Nagrand]], and Morulu the Elder in [[Shattrath City|Shattrath]].
+
+You must defeat them to proceed on the path to greatness. 
+
+==Rewards==
+You will receive: [[Sack of Pet Supplies]] {{cost|11|40|}} (or {{cost|19|84|50}} if completed at level 90)
+
+==Progression==
+{{Pet Tamer}}
+
+==Patch changes==
+*{{Patch 5.0.4|note=Added.}}
+
+==External links==
+{{Elinks-quest|31919}}
+
+[[Category:Stormwind City quests]]
+[[Category:Shattrath City quests]]
+[[Category:Zangarmarsh quests]]
+[[Category:Nagrand quests]]
+[[Category:Hellfire Peninsula quests]]

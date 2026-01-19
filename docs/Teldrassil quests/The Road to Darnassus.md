@@ -1,0 +1,44 @@
+# The Road to Darnassus
+
+{{for|the ''Classic'' version|The Road to Darnassus (Classic)}}
+{{questbox
+ | name = The Road to Darnassus
+ | faction = Alliance
+ | level = {{level|Teldrassil}}
+ | category = Teldrassil
+ | start = [[Moon Priestess Amara]]
+ | reputation = +250 [[Darnassus (faction)|Darnassus]]
+ | experience = 700
+ | money = {{cost||2|25}}
+ | id = 487
+}}
+
+==Objectives==
+Slay 8 Gnarlpine Ambushers.
+*[[Gnarlpine Ambusher]] slain (8)
+
+==Description==
+The road to [[Darnassus]] must be kept safe. Corrupted [[furbolg]]s from the [[Gnarlpine]] tribe have been attacking travelers relentlessly.
+
+Important news and commerce travels to and from Darnassus by way of this road daily. We cannot afford to have a rogue band of heathens terrorizing people.
+
+Take up arms in the name of the sacred forest, <class>. Their den lies up this northern path. Slay these Gnarlpine ambushers and report back to me. 
+
+==Rewards==
+You will receive: {{cost||2|25}}
+
+==Progress==
+The road is still not safe, <class>. Travel forth and slay the Gnarlpine ambushers and return to me.
+
+==Completion==
+You have served the good people of [[Dolanaar]] and Darnassus well, brave <class>.  As a member of the Sentinel force of Teldrassil, I salute your efforts.
+
+==Notes==
+{{speculation}}
+The ''Classic'' version of the quest originally referred to Amara as "Sentinel Amara Nightwalker". While possibly a mix-up during quest design alongside NPC creation, "Amara Nightwalker" may be her full name; other moon priestesses in the game only list a first name. A possible in-game explanation could be that she started out as a Sentinel, and later finished her training as a [[Priestess of the moon]], becoming a leader among the Sentinels as well.
+
+==Patch changes==
+*{{Patch 4.0.3a|note=Text updated.}}
+
+==External links==
+{{Elinks-quest|487}}

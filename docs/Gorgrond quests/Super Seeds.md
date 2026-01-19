@@ -1,0 +1,3 @@
+# Super Seeds
+
+{{faction disambiguation}}

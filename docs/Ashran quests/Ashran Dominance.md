@@ -1,0 +1,3 @@
+# Ashran Dominance
+
+{{Faction disambiguation}}

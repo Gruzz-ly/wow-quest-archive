@@ -1,0 +1,3 @@
+# Ancient Technology
+
+{{Faction disambiguation}}

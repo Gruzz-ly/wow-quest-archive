@@ -1,0 +1,3 @@
+# Treasure Tale
+
+{{Faction disambiguation}}

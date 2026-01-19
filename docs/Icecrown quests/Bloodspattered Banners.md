@@ -1,0 +1,3 @@
+# Bloodspattered Banners
+
+{{Faction disambiguation}}

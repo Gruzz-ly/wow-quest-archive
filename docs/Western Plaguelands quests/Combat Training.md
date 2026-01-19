@@ -1,0 +1,3 @@
+# Combat Training
+
+{{Faction disambiguation}}

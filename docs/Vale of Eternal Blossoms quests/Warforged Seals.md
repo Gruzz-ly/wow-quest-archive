@@ -1,0 +1,3 @@
+# Warforged Seals
+
+{{Faction disambiguation}}

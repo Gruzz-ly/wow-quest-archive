@@ -1,0 +1,3 @@
+# He Called Himself Altruis...
+
+{{Faction disambiguation}}

@@ -1,0 +1,3 @@
+# Ghostbuster
+
+{{Faction disambiguation}}

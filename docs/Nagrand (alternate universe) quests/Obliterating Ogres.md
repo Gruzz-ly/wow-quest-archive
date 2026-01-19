@@ -1,0 +1,3 @@
+# Obliterating Ogres
+
+{{faction disambiguation}}

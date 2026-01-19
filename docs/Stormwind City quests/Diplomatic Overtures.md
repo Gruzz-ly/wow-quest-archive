@@ -1,0 +1,3 @@
+# Diplomatic Overtures
+
+{{faction disambiguation}}

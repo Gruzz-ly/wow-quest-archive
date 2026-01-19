@@ -1,0 +1,3 @@
+# WANTED: Thundersnout
+
+{{faction disambiguation}}

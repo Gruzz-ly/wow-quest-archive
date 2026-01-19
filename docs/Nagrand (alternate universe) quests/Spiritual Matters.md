@@ -1,0 +1,3 @@
+# Spiritual Matters
+
+{{faction disambiguation}}

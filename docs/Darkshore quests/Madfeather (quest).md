@@ -1,0 +1,3 @@
+# Madfeather (quest)
+
+{{Faction disambiguation}}

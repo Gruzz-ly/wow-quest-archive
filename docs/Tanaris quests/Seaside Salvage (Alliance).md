@@ -1,0 +1,43 @@
+# Seaside Salvage (Alliance)
+
+{{questbox
+| name = Seaside Salvage
+| faction = Alliance
+|level={{level|Tanaris}}
+| category = Tanaris
+| start = [[Kelsey Steelspark]] {{coords|51.2|29.9|Tanaris}}
+| experience = 5540
+| rewards = {{cost||65}}
+| reputation= +250 [[Gnomeregan (faction)|Gnomeregan]]
+|other-faction=Seaside Salvage (Horde)
+}}
+
+== Objectives ==
+Collect 7 Steamwheedle Supplies.
+* [[Steamwheedle Supplies]] (7)
+
+== Description ==
+If we want to convince [[Marin Noggenfogger|Mister Noggenfogger]] to let us move more gnomes here, we've got to show him just how nice we are! I know just the thing.
+
+Gadgetzan's under blockade by pirates, but plenty of the goods that get blown off the ships survive intact... they just wash away. Most of them wash up in the shallows just south of town.
+
+If you could go collect those supplies for them, it'd help us make friends! And it'll keep that mean goblin girl over there from taking them and selling them. 
+
+== Rewards ==
+You will receive: {{cost||65}}
+
+== Progress ==
+Do you have a whole buncha boxes? Let's see!
+
+== Completion ==
+Most of this looks just fine! How lucky!
+
+The [[Steamwheedle Cartel|Steamwheedle]] goblins will be so happy to see their cargo back safe and sound. And here's a reward for your good deeds, of course!
+
+We've got lots of other stuff to do though! Busy busy!
+
+== Patch changes ==
+* {{Patch 4.0.3a|note=Added.}}
+
+== External links ==
+{{Elinks-quest|25048}}

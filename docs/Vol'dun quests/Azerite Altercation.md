@@ -1,0 +1,3 @@
+# Azerite Altercation
+
+{{Faction disambiguation}}

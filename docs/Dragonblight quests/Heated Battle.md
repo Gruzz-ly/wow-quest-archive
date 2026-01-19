@@ -1,0 +1,3 @@
+# Heated Battle
+
+{{Faction disambiguation}}

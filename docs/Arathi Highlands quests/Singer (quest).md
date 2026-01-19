@@ -1,0 +1,3 @@
+# Singer (quest)
+
+{{Faction disambiguation}}

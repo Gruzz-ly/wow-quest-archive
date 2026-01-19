@@ -1,0 +1,3 @@
+# Bronze Victory
+
+{{Faction disambiguation}}

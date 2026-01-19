@@ -1,0 +1,36 @@
+# A Steak Fit for a Hunter
+
+{{questbox
+| name = A Steak Fit for a Hunter
+| faction = Neutral
+|level={{level|Sholazar Basin}}
+| category = Sholazar Basin
+| start = [[Korg the Cleaver]]
+| experience = 21150
+| rewards = {{cost|6|20}}
+| previous = 
+| id = 12804
+}}
+
+The quests [[Dreadsaber Mastery: Becoming a Predator]] and [[Rhino Mastery: The Test]] are prerequisites for this quest.
+
+== Objectives ==
+Bring 5 Longneck Grazer Steaks to [[Korg the Cleaver]] at the [[Nesingwary Base Camp]].
+* [[Longneck Grazer Steak]] (5)
+
+== Description ==
+Sometimes, there's nothing worse than a camp full of hunters. They're all so busy taking down prey animals that the only meat I get is tough and stringy. That's hardly the kind of thing you want to come home to after a long day on the hunt.
+
+Lucky for us, though, there is a source of tender, succulent meat nearby. To the south of the river and the camp live longneck grazers. They're a perfect source of meat for our hungry hunters. Bring me back the best cuts of meat and we'll properly toast our comrades. 
+
+== Rewards ==
+You will receive: {{cost|6|20}}
+
+== Progress ==
+Did you get those steaks?
+
+== Completion ==
+Now that's a meal! If anything good came of the shipwreck, it's got to be that we've been spared eating nothing but salt beef for the next month! Thank you again, <name>.
+
+== External links ==
+{{Elinks-quest|12804}}

@@ -1,0 +1,3 @@
+# Attempted Murder
+
+{{faction disambiguation}}

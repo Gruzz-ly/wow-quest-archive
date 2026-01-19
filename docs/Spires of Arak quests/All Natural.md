@@ -1,0 +1,3 @@
+# All Natural
+
+{{faction disambiguation}}

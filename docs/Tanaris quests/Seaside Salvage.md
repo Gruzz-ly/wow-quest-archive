@@ -1,0 +1,3 @@
+# Seaside Salvage
+
+{{Faction disambiguation}}

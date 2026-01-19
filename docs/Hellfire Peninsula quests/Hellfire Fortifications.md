@@ -1,0 +1,3 @@
+# Hellfire Fortifications
+
+{{faction disambiguation}}

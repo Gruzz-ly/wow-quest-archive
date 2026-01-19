@@ -1,0 +1,3 @@
+# Legendary Heroes
+
+{{Faction disambiguation}}

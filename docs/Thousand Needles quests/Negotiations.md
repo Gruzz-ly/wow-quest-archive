@@ -1,0 +1,3 @@
+# Negotiations
+
+{{faction disambiguation}}

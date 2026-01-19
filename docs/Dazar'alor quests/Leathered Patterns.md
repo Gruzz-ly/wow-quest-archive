@@ -1,0 +1,3 @@
+# Leathered Patterns
+
+{{faction disambiguation}}

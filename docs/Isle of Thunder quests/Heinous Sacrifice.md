@@ -1,0 +1,3 @@
+# Heinous Sacrifice
+
+{{faction disambiguation}}

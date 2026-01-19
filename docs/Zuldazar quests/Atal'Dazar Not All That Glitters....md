@@ -1,0 +1,3 @@
+# Atal'Dazar: Not All That Glitters...
+
+{{Faction disambiguation}}

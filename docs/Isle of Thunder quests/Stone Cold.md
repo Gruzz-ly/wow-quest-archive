@@ -1,0 +1,3 @@
+# Stone Cold
+
+{{faction disambiguation}}

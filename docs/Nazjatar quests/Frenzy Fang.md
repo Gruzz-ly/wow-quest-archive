@@ -1,0 +1,3 @@
+# Frenzy Fang
+
+{{Faction disambiguation}}

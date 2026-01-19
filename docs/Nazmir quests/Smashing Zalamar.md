@@ -1,0 +1,3 @@
+# Smashing Zalamar
+
+{{Faction disambiguation}}

@@ -1,0 +1,3 @@
+# Stinglasher (quest)
+
+{{Faction disambiguation}}

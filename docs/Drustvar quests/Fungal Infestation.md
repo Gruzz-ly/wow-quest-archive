@@ -1,0 +1,3 @@
+# Fungal Infestation
+
+{{Faction disambiguation}}

@@ -1,0 +1,3 @@
+# WANTED: Venombarb
+
+{{faction disambiguation}}

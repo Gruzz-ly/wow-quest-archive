@@ -1,0 +1,49 @@
+# WANTED: Emorneth
+
+{{Stub/Quest}}
+{{Questbox
+ | id = 55776
+ | name = WANTED: Emorneth
+ | category = Nazjatar
+ | faction = Alliance
+ | level = {{level|Nazjatar}}
+ | levelreq = {{level|Nazjatar}}
+ | type = Combat Ally Quest
+ | groupsize = 3
+ | start = [[Bounty Board (Nazjatar)|Bounty Board]]
+ | end = [[Lieutenant Hawkins]]
+ | money = {{cost|46|80|}}
+ | rewards = 2x [[Prismatic Manapearl]], 100x [[Nazjatar Ally - Hunter Akana]]
+ | shareable = No
+}}
+
+==Objectives==
+Slay Emorneth.
+* [[Emorneth]] slain
+* Suggested players: 3
+
+==Description==
+Wanted for attacks against the [[Alliance]]!
+
+Emorneth is responsible for the gruesome deaths of several of our best [[soldier]]s. Extreme caution advised!
+
+Upon completion of the mission, report to [[Lieutenant Hawkins]] for commendation.
+
+==Rewards==
+You will receive:
+* {{cost|46|80|}}
+
+==Progress==
+...
+
+==Completion==
+Well done, <class>. Emorneth has been terrorizing our soldiers since the day we arrived on [[Nazjatar]].
+
+==Notes==
+...
+
+==Patch changes==
+*{{Patch 8.2.0|note=Added.}}
+
+==External links==
+{{Elinks-quest|55776}}

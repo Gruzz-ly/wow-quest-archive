@@ -1,0 +1,3 @@
+# Iconoclasm
+
+{{Faction disambiguation}}

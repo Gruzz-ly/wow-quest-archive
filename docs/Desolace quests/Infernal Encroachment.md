@@ -1,0 +1,3 @@
+# Infernal Encroachment
+
+{{faction disambiguation}}

@@ -1,0 +1,3 @@
+# Boosting Morale
+
+{{Faction disambiguation}}

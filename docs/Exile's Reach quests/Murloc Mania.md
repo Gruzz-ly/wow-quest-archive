@@ -1,0 +1,3 @@
+# Murloc Mania
+
+{{Faction disambiguation}}

@@ -1,0 +1,3 @@
+# Conflagros (quest)
+
+{{Faction disambiguation}}

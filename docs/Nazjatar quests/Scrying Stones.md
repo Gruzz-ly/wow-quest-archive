@@ -1,0 +1,3 @@
+# Scrying Stones
+
+{{Faction disambiguation}}

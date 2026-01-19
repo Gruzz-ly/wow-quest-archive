@@ -1,0 +1,3 @@
+# Stranglethorn Lumber
+
+{{faction disambiguation}}

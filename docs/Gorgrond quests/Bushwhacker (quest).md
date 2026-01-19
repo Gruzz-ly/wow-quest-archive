@@ -1,0 +1,3 @@
+# Bushwhacker (quest)
+
+{{faction disambiguation}}

@@ -1,0 +1,3 @@
+# Subversive Scouts
+
+{{faction disambiguation}}

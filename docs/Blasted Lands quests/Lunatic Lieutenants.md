@@ -1,0 +1,3 @@
+# Lunatic Lieutenants
+
+{{faction disambiguation}}

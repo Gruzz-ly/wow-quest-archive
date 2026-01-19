@@ -1,0 +1,3 @@
+# Fortunate Souls
+
+{{Faction disambiguation}}

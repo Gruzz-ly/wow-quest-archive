@@ -1,0 +1,3 @@
+# Gold Victory
+
+{{faction disambiguation}}

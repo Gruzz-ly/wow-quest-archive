@@ -1,0 +1,30 @@
+# Gareed (bonus objective)
+
+{{Questbox
+ | id = 74321
+ | name = Gareed
+| disambigcat = Forbidden Reach
+| displaycat = The Forbidden Reach
+| category = Forbidden Reach
+ | level = {{Level|Forbidden Reach}}
+ | levelreq = {{Level|Forbidden Reach}}
+ | type = Bonus Objective
+ | start = Automatic
+ | experience = 10,400
+ | shareable = No
+}}
+
+==Objectives==
+*[[Gareed]] slain
+
+==Rewards==
+You will receive:
+*10,400 [[XP]]
+
+==Patch changes==
+*{{Patch 10.0.7|note=Added.}}
+
+==External links==
+{{Elinks-quest|74321}}
+
+[[Category:Dragonflight bonus objectives]]

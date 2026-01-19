@@ -1,0 +1,3 @@
+# Absolutely Barbaric
+
+{{Faction disambiguation}}

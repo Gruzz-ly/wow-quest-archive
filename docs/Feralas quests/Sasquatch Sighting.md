@@ -1,0 +1,3 @@
+# Sasquatch Sighting
+
+{{Faction disambiguation}}

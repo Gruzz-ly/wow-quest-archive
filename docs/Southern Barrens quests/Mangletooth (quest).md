@@ -1,0 +1,3 @@
+# Mangletooth (quest)
+
+{{Faction disambiguation}}

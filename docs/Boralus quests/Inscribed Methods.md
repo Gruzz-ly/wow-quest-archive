@@ -1,0 +1,3 @@
+# Inscribed Methods
+
+{{faction disambiguation}}

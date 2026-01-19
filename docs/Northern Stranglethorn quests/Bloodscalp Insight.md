@@ -1,0 +1,3 @@
+# Bloodscalp Insight
+
+{{Faction disambiguation}}

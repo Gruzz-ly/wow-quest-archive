@@ -1,0 +1,3 @@
+# Empty Stables
+
+{{Faction disambiguation}}

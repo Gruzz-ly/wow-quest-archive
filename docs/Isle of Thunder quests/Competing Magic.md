@@ -1,0 +1,3 @@
+# Competing Magic
+
+{{faction disambiguation}}

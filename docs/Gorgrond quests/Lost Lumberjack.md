@@ -1,0 +1,3 @@
+# Lost Lumberjack
+
+{{faction disambiguation}}

@@ -1,0 +1,3 @@
+# Crackling Mandible
+
+{{Faction disambiguation}}

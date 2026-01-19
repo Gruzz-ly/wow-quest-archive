@@ -1,0 +1,3 @@
+# Silver Victory
+
+{{faction disambiguation}}

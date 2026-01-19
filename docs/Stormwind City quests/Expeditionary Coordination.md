@@ -1,0 +1,3 @@
+# Expeditionary Coordination
+
+{{Faction disambiguation}}

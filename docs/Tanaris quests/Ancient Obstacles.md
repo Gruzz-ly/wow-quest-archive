@@ -1,0 +1,3 @@
+# Ancient Obstacles
+
+{{Faction disambiguation}}

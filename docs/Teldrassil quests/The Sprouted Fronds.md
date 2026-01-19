@@ -1,0 +1,25 @@
+# The Sprouted Fronds
+
+{{questbox
+| name=  The Sprouted Fronds
+| faction= Alliance
+ | level = {{level|Teldrassil}}
+| category = Teldrassil
+| start = [[Sprouted Frond]]
+| experience = 85
+| reputation=+10 [[Darnassus (faction)|Darnassus]]
+| rewards = [[Sprouted Frond]] (5)
+| previous= [[The Shimmering Frond]]
+| id = 2399
+}}
+== Completion ==
+The fronds Denalan planted within his garden have sprouted and grown. They tremble, eager to be picked.... 
+
+==Rewards==
+You will receive: [[Sprouted Frond]] (5)
+
+==Progression==
+{{Denalan's Earth}}
+
+==External links==
+{{elinks-quest|2399}}

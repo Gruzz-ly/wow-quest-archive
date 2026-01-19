@@ -1,0 +1,49 @@
+# The Twilight Mystery
+
+{{Questbox
+ | name = The Twilight Mystery
+ | level = {{level|Silithus}}
+ | category = Silithus
+ | start = [[Geologist Larksbane]]
+ | reputation = +500 [[Cenarion Circle]]
+ | experience = 6200
+ | money = {{cost||90}}
+ | previous = [[Vyral the Vile]]
+ | next = [[The Deserter]]
+ | id = 8284
+}}
+
+==Objectives==
+[[Geologist Larksbane]] at [[Cenarion Hold]] in [[Silithus]] wants you to collect 8 Twilight Tablet Fragments.
+*[[Twilight Tablet Fragment]] (8)
+
+==Description==
+A camp of [[Twilight's Hammer]] cultists once thrived northwest of here. If you were to venture there now, you'd find the area swarming with elementals and nothing but scattered pieces of wood and canvas to mark the spot where the camp was.
+
+I've recovered a few fragments of a clay tablet from the site, but I have too few of them to piece together anything useful. See if you can find the remaining tablet fragments so we can shed some light into the Twilight's Hammer presence here in Silithus.
+
+==Rewards==
+You will receive:
+*{{cost||90}}
+* 6200 XP
+* +500 [[reputation]] with [[Cenarion Circle]]
+
+==Progress==
+The ravaged camp can be found northwest of here.  Come back when you have all the fragments. 
+
+==Completion==
+Just as I suspected.  I can decipher individual words in the tablets but they appear to be devoid of any logic or meaning.  It's not unknown for Twilight's Hammer sects to use a code to hide the meaning of their texts; we'll have to go to someone who knows more about this sort of thing.
+
+==Notes==
+The Ravaged Twilight Camp is in the northwest corner of Silithus at coordinates 23,10. You can find the Tablet Fragments on the ground. They should be glowing blue.
+
+==Progression==
+{{:The Twilight Mystery/Chain}}
+
+==Patch changes==
+*{{Patch 1.8.0|note=Added.}}
+
+==External links==
+{{Elinks-quest|8284}}
+
+[[Category:Cenarion Circle quests]]

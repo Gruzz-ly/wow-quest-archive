@@ -1,0 +1,3 @@
+# Earned Reverence
+
+{{Faction disambiguation}}
