@@ -1,0 +1,31 @@
+site_name: The Oracle Archive
+site_url: https://YOUR_GITHUB_USERNAME.github.io/YOUR_REPO_NAME
+repo_url: https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME
+repo_name: GitHub Repo
+
+theme:
+  name: material
+  palette:
+    # Dark Mode (Slate scheme)
+    scheme: slate 
+    primary: purple
+    accent: indigo
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+  # Mobile App Optimization
+  icon:
+    repo: fontawesome/brands/github
+
+# The Search Plugin (Makes it searchable)
+plugins:
+  - search
+
+# Legal Footer (Required for safety)
+copyright: >
+  Data sourced from <a href="https://warcraft.wiki.gg">Warcraft Wiki</a> under <a href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a>. 
+  Not affiliated with Blizzard Entertainment. Non-profit educational archive.
