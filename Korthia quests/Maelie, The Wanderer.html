@@ -266,6 +266,91 @@
     
   
   
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#objectives" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Objectives
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#description" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Description
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#rewards" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Rewards
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#completion" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Completion
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tracking-macro" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Tracking macro
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#patch-changes" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Patch changes
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#external-links" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        External links
+      
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
 </nav>
                   </div>
                 </div>
@@ -285,36 +370,52 @@
 
 
 <h1 id="maelie-the-wanderer">Maelie, The Wanderer</h1>
-<p>{{for|the cloudrunner|Maelie the Wanderer}}
-{{Questbox
- | id = 64292
- | name = Maelie, The Wanderer
- | category = Korthia
- | faction = Neutral
- | level = {{level|sl-max}}
- | levelreq = {{level|sl-max}}
- | start = [[Tinybell]] {{co|60.7|21.9|Korthia}}
- | rewards = [[Reins of the Wanderer]]
+<table>
+<thead>
+<tr>
+<th>Field</th>
+<th>Value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Name</strong></td>
+<td>Maelie, The Wanderer</td>
+</tr>
+<tr>
+<td><strong>Level</strong></td>
+<td>{{level</td>
+</tr>
+<tr>
+<td><strong>Id</strong></td>
+<td>64292</td>
+</tr>
+</tbody>
+</table>
+<p>| levelreq = 
+ | start = <strong>Tinybell</strong> 
+ | rewards = <strong>Reins of the Wanderer</strong>
 }}</p>
-<p>[[File:Maelie the Wanderer.jpg|thumb|[[Maelie the Wanderer]]]]
-'''Maelie, The Wanderer''' is offered by [[Tinybell]] to players who have found [[Maelie the Wanderer]] in her six different locations in [[Korthia]] across different days.</p>
-<p>==Objectives==
-Accept responsibility for [[Maelie the Wanderer|Maelie]].</p>
-<p>==Description==
-I can't thank you enough for finding Maelie! You know, I think she's just a little bit more than I can handle.</p>
+<p><strong>thumb|</strong>Maelie the Wanderer<strong><em>*
+</em>*Maelie, The Wanderer</strong> is offered by <strong>Tinybell</strong> to players who have found <strong>Maelie the Wanderer</strong> in her six different locations in <strong>Korthia</strong> across different days.</p>
+<h2 id="objectives">Objectives</h2>
+<p>Accept responsibility for <strong>Maelie</strong>.</p>
+<h2 id="description">Description</h2>
+<p>I can't thank you enough for finding Maelie! You know, I think she's just a little bit more than I can handle.</p>
 <p>Would you mind watching over her? I think she's really taken a liking to you!</p>
-<p>==Rewards==
-You will receive:
-*[[Reins of the Wanderer]]</p>
-<p>==Completion==
-Take care of Maelie, Maw Walker.</p>
-<p>==Tracking macro==
-To check whether Maelie has been found, copy and paste this into the chat window:</p>
-<p><code>/run local i,c=0,{{api|C_QuestLog.IsQuestFlaggedCompleted}};for q=64293,64299 do if q~=64298 then i=i+(c(q)and 1 or 0)end end;print('Tinybell '..(c(64298)and 'is NOT'or'is')..' looking for Maelie now. You have found Maelie '..i..' of 6 times.')</code></p>
-<p>==Patch changes==
-* {{Patch 9.1.0|note=Added.}}</p>
-<p>==External links==
-{{Elinks-quest|64292}}</p>
+<h2 id="rewards">Rewards</h2>
+<p>You will receive:
+<strong>*Reins of the Wanderer</strong></p>
+<h2 id="completion">Completion</h2>
+<p>Take care of Maelie, Maw Walker.</p>
+<h2 id="tracking-macro">Tracking macro</h2>
+<p>To check whether Maelie has been found, copy and paste this into the chat window:</p>
+<p><code>/run local i,c=0,;for q=64293,64299 do if q~=64298 then i=i+(c(q)and 1 or 0)end end;print('Tinybell '..(c(64298)and 'is NOT'or'is')..' looking for Maelie now. You have found Maelie '..i..' of 6 times.')</code></p>
+<h2 id="patch-changes">Patch changes</h2>
+<ul>
+<li></li>
+</ul>
+<h2 id="external-links">External links</h2>
 
 
 
